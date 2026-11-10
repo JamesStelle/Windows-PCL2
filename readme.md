@@ -5,6 +5,6 @@
 - 双击[Windows]PCL2启动器.exe
 
 - 点击设置-启动器-系统，关闭“启动器更新-关闭更新提示”、“关闭所有广告”
-![设置](./setting.jpg)
+![设置](./picture/setting.jpg)
 - 再进行联网使用
-![使用](./download.jpg)
+![下载](./picture/download.jpg)
